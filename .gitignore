@@ -3,6 +3,7 @@
 venv/
 ENV/
 env/
+.env
 
 # VS Code settings
 .vscode/
